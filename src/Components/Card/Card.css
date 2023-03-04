@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Jura&display=swap");
 .Card {
   background: #333;
   color: whitesmoke;
@@ -16,16 +15,4 @@
   height: 100%;
   margin: 1em;
   background: red;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Jura", sans-serif;
-  background: #fff;
-  color: #333;
-}/*# sourceMappingURL=index.css.map */
+}/*# sourceMappingURL=Card.css.map */
